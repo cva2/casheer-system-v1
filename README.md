@@ -1,9 +1,13 @@
 # 🛒 Supermarket System V1
 
+
 **Supermarket System V1** Is A Simple Console-Based Cashier Simulation Built Using C++.  
 This Project Was Developed As A Beginner-Level Training Application To Practice Core Procedural Programming Concepts Such As Arrays, Loops, Conditional Statements, Functions, And Basic Input/Output Operations.
 
 It Represents A Foundational Step In Building Problem-Solving Skills Using C++, While Providing A Practical Example Of Handling User Input, Calculations, And Output Formatting.
+
+
+
 
 ---
 
